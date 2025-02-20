@@ -1,0 +1,6 @@
+psutil
+Streamlit
+scapy
+pandas
+pywin32
+matplotlib
